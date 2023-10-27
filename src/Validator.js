@@ -1,4 +1,4 @@
-import { NumberSchema } from "./NumberSchema.js";
+import NumberSchema from "./NumberSchema.js";
 
 export default class Validator {
 	number() {

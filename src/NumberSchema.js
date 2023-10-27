@@ -1,4 +1,4 @@
-export class NumberSchema {
+export default class NumberSchema {
 	constructor() {
 		this.opts = {
 			even: false, // чётное
